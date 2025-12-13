@@ -3,8 +3,8 @@
 Volunteer developers are highly needed, as I am the only developer keeping this project alive currently. New tools are
 always welcome.
 
-Keep an eye at the [projects](https://github.com/users/vil/projects/2)
-and [issues](https://github.com/vil/H4X-Tools/issues) page to see if there is anything specific to do.
+Keep an eye at the [projects](https://github.com/users/Daffenass/projects/2)
+and [issues](https://github.com/Daffenass/H4X-Tools/issues) page to see if there is anything specific to do.
 
 ## Submitting changes
 
