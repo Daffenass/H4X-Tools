@@ -11,7 +11,7 @@ echo
 echo "Make sure to run this in the root project directory!"
 
 read -r -p "Do you want to update H4XTools? (y/N) " answer
-if [[ $answer == "y" ||  $answer == "Y" || $answer == "yes" || $answer == "Yes" ]]; then
+if [[ "$answer" =~ ^[yY]$ ]]; then
     git fetch
     git pull
     echo "Update complete. Run setup.sh to apply changes."

@@ -92,7 +92,7 @@ async def scan_async(paths) -> None:
 
 def scan_urls() -> None:
     paths = get_wordlist()
-    printer.debug(target_domain, paths)
+    printer.debug(f"Target: {target_domain}, Paths loaded: {len(paths) if paths else 0}")
     if paths is None:
         printer.error("Connection Error..!")
         return
