@@ -61,7 +61,7 @@ def print_banner() -> None:
 def display_help() -> None:
     print(Fore.LIGHTCYAN_EX)
     print("H4X-Tools v{} - A toolkit for scraping, OSINT and more.".format(VERSION))
-    print("Repository link: https://github.com/vil/h4x-tools")
+    print("Repository link: https://github.com/Daffenass/h4x-tools")
     print("\nMade in Finland, with love.\n")
 
     print("Available Tools:")

@@ -1,15 +1,15 @@
 # H4X-Tools
 
-[![GitHub latest commit](https://badgen.net/github/last-commit/vil/H4X-Tools)](https://GitHub.com/vil/H4X-Tools/commit/)
-[![GitHub commits](https://badgen.net/github/commits/vil/H4X-Tools)](https://GitHub.com/vil/H4X-Tools/commit/)
-[![GitHub stars](https://badgen.net/github/stars/vil/H4X-Tools)](https://GitHub.com/vil/H4X-Tools/stargazers/)
-[![GitHub forks](https://badgen.net/github/forks/vil/H4X-Tools)](https://GitHub.com/vil/H4X-Tools/network/)
+[![GitHub latest commit](https://badgen.net/github/last-commit/Daffenass/H4X-Tools)](https://GitHub.com/Daffenass/H4X-Tools/commit/)
+[![GitHub commits](https://badgen.net/github/commits/Daffenass/H4X-Tools)](https://GitHub.com/Daffenass/H4X-Tools/commit/)
+[![GitHub stars](https://badgen.net/github/stars/Daffenass/H4X-Tools)](https://GitHub.com/Daffenass/H4X-Tools/stargazers/)
+[![GitHub forks](https://badgen.net/github/forks/Daffenass/H4X-Tools)](https://GitHub.com/Daffenass/H4X-Tools/network/)
 
 Toolkit for scraping, OSINT and more.
 
-Submit feature requests and bugs in the [issues](https://github.com/vil/H4X-Tools/issues) tab.
+Submit feature requests and bugs in the [issues](https://github.com/Daffenass/H4X-Tools/issues) tab.
 
-![](https://github.com/vil/H4X-Tools/blob/master/img/gui-v0.3.2.png)
+![](https://github.com/Daffenass/H4X-Tools/blob/master/img/gui-v0.3.2.png)
 
 ### Looking for contributors!
 
@@ -44,11 +44,11 @@ and improvements! Simply fork the repository, code your tool(s)/improvement(s) a
 > Make sure you have [Python](https://www.python.org/downloads/) and [Git](https://git-scm.com/downloads) installed on
 > your system.
 >
-> view the [wiki page](https://github.com/vil/H4X-Tools/wiki) for more detailed tutorial.
+> view the [wiki page](https://github.com/Daffenass/H4X-Tools/wiki) for more detailed tutorial.
 
 ### Linux
 
-1. Clone the repository: `git clone https://github.com/vil/h4x-tools.git`
+1. Clone the repository: `git clone https://github.com/Daffenass/h4x-tools.git`
 
 2. Change directory into H4X-Tools: `cd h4x-tools`
 
@@ -56,7 +56,7 @@ and improvements! Simply fork the repository, code your tool(s)/improvement(s) a
 
 ### Windows
 
-1. Clone the repository `git clone https://github.com/vil/h4x-tools.git`
+1. Clone the repository `git clone https://github.com/Daffenass/h4x-tools.git`
 
 2. Change directory into H4X-Tools `cd h4x-tools`
 
